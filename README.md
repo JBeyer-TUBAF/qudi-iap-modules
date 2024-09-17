@@ -1,9 +1,11 @@
-# qudi-iqo-modules
+# qudi-iap-modules
 [![License: LGPL v3](https://img.shields.io/badge/License-LGPL%20v3-blue.svg)](https://www.gnu.org/licenses/lgpl-3.0)
 
 ---
 A collection of qudi measurement modules originally developed for experiments on color centers in 
 semiconductor materials.
+
+This is a fork for the PL lab of the Institute of Applied Physics at the TU Bergakademie Freiberg.
 
 
 
